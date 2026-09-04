@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature id="org.eclipse.amalgam.discovery" version="0.0.0">
-      <category name="amalgam"/>
-   </feature>
-   <feature id="org.eclipse.amalgam.discovery.source" version="0.0.0">
-      <category name="amalgam-sdk"/>
-   </feature>
    <feature id="org.eclipse.amalgam.explorer.activity" version="0.0.0">
       <category name="amalgam"/>
    </feature>
